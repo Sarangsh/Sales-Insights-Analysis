@@ -19,7 +19,7 @@ My focus would be on 2020 sepcifically to understand the change in sales and rev
    - Profit Analysis - Where I delve deeper into the data and get a sense of how markets and csutomers are contributing to the company's revenue and sales.
    - Performance Insights - Understand how revenue is performing over time and by zone. In addition to that, I drill down to each customer and understand how every bracket of my customer base is performing.
 
-## General Insights
+## 🔨 General Insights
 <img width="1174" alt="image" src="https://user-images.githubusercontent.com/20294176/153796484-57004fe3-9e8c-4462-b89c-1b5733e2fce5.png">
 
 - Looking at the first sheet, Delhi tops the charts with being the highest contributor to Revenue and Sales.
@@ -28,7 +28,7 @@ My focus would be on 2020 sepcifically to understand the change in sales and rev
 - Lastly I've curated a list of the top 5 customers **Atliq** has in terms of Revenue.
 - Majority of these customers who bring the most revenue are brick and mortar stores which make sense.
 
-## Profit Analysis
+## 💰 Profit Analysis
 <img width="1174" alt="image" src="https://user-images.githubusercontent.com/20294176/153797365-526e02e1-1106-4d63-97fc-fac332af1046.png">
 
 - Despite Delhi being the greatest contributer of revenue, it is better to look at profit contribution as a measure of a city's profitability.
@@ -37,7 +37,7 @@ My focus would be on 2020 sepcifically to understand the change in sales and rev
 - Based on Profit Margin %, Bhubhaneshwar draws the highest profit margin which translates to getting a high ROI for every Rupee spent. For every 100 Rs spent, the company in Bhubhaneshwar made 10.5 Rs in profit.
 - Ideally Revenue should be proportional to Profit margin which leads to evaluating the kind of strategies and promotions being used in Delhi for its unproportionate contribution.
 
-### Looking at customers who bring in the most profit
+### 🏬 Looking at customers who bring in the most profit
 <img width="556" alt="image" src="https://user-images.githubusercontent.com/20294176/153799135-8123336e-81a9-40b9-bbf8-7b21520eb6d7.png"> 
 
 - Ordering the customer base by Revenue, we look at **Electricalsbea Stores** which has an interesting situation.
@@ -47,7 +47,7 @@ My focus would be on 2020 sepcifically to understand the change in sales and rev
 
 - Similarly, **Atliq** should think about how they want to approach the customers that do not bring in a lot of revenue.
 
-## Performance Insights
+## 🕴🏾 Performance Insights
 <img width="1171" alt="image" src="https://user-images.githubusercontent.com/20294176/153800053-11affcc9-35e3-4a0d-b29c-1a9e901f8462.png">
 
 - Among all zones, the South zone brings in the most profit for the company.
