@@ -13,7 +13,8 @@ Analyzing sales data for a company to identify gaps in their revenue and help th
 The link to the PowerBI Workbook can be found here: [Link](https://app.powerbi.com/groups/me/reports/83708bc9-a603-4450-a365-32164c9e4a17/ReportSection)
 
 ## Process Flow
-- I have analyzed the data into three different sections 
+My focus would be on 2020 sepcifically to understand the change in sales and revenue throughout the year.
+- I have analyzed and divided the data into three different sections 
    - General Insights - Where I talk about things I observe high level.
    - Profit Analysis - Where I delve deeper into the data and get a sense of how markets and csutomers are contributing to the company's revenue and sales.
    - Performance Insights - Understand how revenue is performing over time and by zone. In addition to that, I drill down to each customer and understand how every bracket of my customer base is performing.
