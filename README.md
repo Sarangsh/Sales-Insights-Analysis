@@ -16,9 +16,9 @@ This would require you have a Microsoft account to access the link. If that's no
 ## ⏳ Process Flow
 My focus would be on 2020 sepcifically to understand the change in sales and revenue throughout the year.
 - I have analyzed and divided the data into three different sections 
-   - General Insights - Where I talk about things I observe high level.
-   - Profit Analysis - Where I delve deeper into the data and get a sense of how markets and csutomers are contributing to the company's revenue and sales.
-   - Performance Insights - Understand how revenue is performing over time and by zone. In addition to that, I drill down to each customer and understand how every bracket of my customer base is performing.
+   - **General Insights** - Where I talk about things I observe high level.
+   - **Profit Analysis** - Where I delve deeper into the data and get a sense of how markets and csutomers are contributing to the company's revenue and sales.
+   - **Performance Insights** - Understand how revenue is performing over time and by zone. In addition to that, I drill down to each customer and understand how every bracket of my customer base is performing.
 
 ## 🔨 General Insights
 <img width="1174" alt="image" src="https://user-images.githubusercontent.com/20294176/153796484-57004fe3-9e8c-4462-b89c-1b5733e2fce5.png">
