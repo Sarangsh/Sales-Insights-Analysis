@@ -54,6 +54,15 @@ My focus would be on 2020 sepcifically to understand the change in sales and rev
 - The company can also see that Revenue has dropped by month vs Last year with the profit margin % decreasing as well.
 - The total profit margin as of 2020 is 2.1M Rs
 
+## Recommendations
+- Employ promotion and discounts to customers who bring the most revenue to the company so they buy more products from **Atliq**.
+- With Mumbai's profit contribution being the highest, look at what strategies are being used in Mumbai and translate it into other cities to imrove profit.
+- Bhubhaneshwar should be injected with more business as it's already churning profit with minimal investment in product quantities. With more discounts would lead to purchase of product quantities, leading to maximizing the ROI the city provides.
+- Promotion Strategies should be directed at **Electricalsbea Stores** to encourage the store to keep buying products from **Atliq**.
+- Plan a exit strategy for customers who are brining in the lowerst revenue for the organization.
+- Work on product quality, promotions and advertising to improve sales and profit in the **North** and **Central** regions.
+
+
 
 
 
