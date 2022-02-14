@@ -11,6 +11,7 @@ Analyzing sales data for a company to identify gaps in their revenue and help th
 
 ## 💡 Power BI Workbook
 The link to the PowerBI Workbook can be found here: [Link](https://app.powerbi.com/groups/me/reports/83708bc9-a603-4450-a365-32164c9e4a17/ReportSection)
+This would require you have a Microsoft account to access the link. If that's not an option you can proceed below where I cover my analysis in the form of a process flow.
 
 ## ⏳ Process Flow
 My focus would be on 2020 sepcifically to understand the change in sales and revenue throughout the year.
