@@ -50,7 +50,10 @@ My focus would be on 2020 sepcifically to understand the change in sales and rev
 ## Performance Insights
 <img width="1171" alt="image" src="https://user-images.githubusercontent.com/20294176/153800053-11affcc9-35e3-4a0d-b29c-1a9e901f8462.png">
 
--
+- Among all zones, the South zone brings in the most profit for the company.
+- The company can also see that Revenue has dropped by month vs Last year with the profit margin % decreasing as well.
+- The total profit margin as of 2020 is 2.1M Rs
+
 
 
 
