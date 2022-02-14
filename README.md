@@ -25,7 +25,7 @@ My focus would be on 2020 sepcifically to understand the change in sales and rev
 - Looking at the first sheet, Delhi tops the charts with being the highest contributor to Revenue and Sales.
 - The drop in Revenue over time is most likely due to impact of the pandemic.
 - The company has generated 142M in Revenue and sold 350k in product quantities.
-- Lastly I've curated a list of the top 5 customers Atliq has in terms of Revenue.
+- Lastly I've curated a list of the top 5 customers **Atliq** has in terms of Revenue.
 - Majority of these customers who bring the most revenue are brick and mortar stores which make sense.
 
 ## Profit Analysis
@@ -36,5 +36,22 @@ My focus would be on 2020 sepcifically to understand the change in sales and rev
 - Even though Mumbai does not contribte as much to revenue as Delhi, it brings the most profit which is something **Atliq** would be inerested in.
 - Based on Profit Margin %, Bhubhaneshwar draws the highest profit margin which translates to getting a high ROI for every Rupee spent. For every 100 Rs spent, the company in Bhubhaneshwar made 10.5 Rs in profit.
 - Ideally Revenue should be proportional to Profit margin which leads to evaluating the kind of strategies and promotions being used in Delhi for its unproportionate contribution.
+
+### Looking at customers who bring in the most profit
+<img width="556" alt="image" src="https://user-images.githubusercontent.com/20294176/153799135-8123336e-81a9-40b9-bbf8-7b21520eb6d7.png"> 
+
+- Ordering the customer base by Revenue, we look at **Electricalsbea Stores** which has an interesting situation.
+- Even though the store does not give you a high Profit Margin %, it does churn a lot of Revenue which implies that the store buys a lot of products from **Atliq**.
+
+<img width="561" alt="image" src="https://user-images.githubusercontent.com/20294176/153799235-682ff44f-6ec2-4bbf-a4be-de11785b1ccb.png">
+
+- Similarly, **Atliq** should think about how they want to approach the customers that do not bring in a lot of revenue.
+
+## Performance Insights
+<img width="1171" alt="image" src="https://user-images.githubusercontent.com/20294176/153800053-11affcc9-35e3-4a0d-b29c-1a9e901f8462.png">
+
+-
+
+
 
 
